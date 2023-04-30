@@ -9,4 +9,5 @@
 	width:500px;
 	flex-wrap:wrap;
 	flex-direction:row;
+	justify-cintent:space-evenly;
 }
